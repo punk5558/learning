@@ -1,5 +1,5 @@
 export const abi =
-  [
+  `[
     {
       "inputs": [
         {
@@ -62,7 +62,7 @@ export const abi =
       ],
       "stateMutability": "view",
       "type": "function"
-    }] ;
+    }]` ;
 
 
 
